@@ -58,8 +58,8 @@ INSERT INTO categories (name, description) VALUES
  * Inserts sample data into the `products` table.
  */
 INSERT INTO products (name, price, category_id) VALUES
-('Laptop', 999.99, 1),
-('Smartphone', 499.99, 1),
+('PC', 779.89, 1),
+('Phone', 99.99, 1),
 ('T-shirt', 19.99, 2),
 ('Jeans', 39.99, 2),
 ('Fiction Book', 14.99, 3),
